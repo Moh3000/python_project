@@ -1,0 +1,12 @@
+11:28:34 From Shahd Muhareb to Everyone : اللي  خلص اللي طلبه الدكتور 
+
+11:28:38 From Shahd Muhareb to Everyone : يعمل هاي 
+
+11:28:41 From Shahd Muhareb to Everyone : the line that start with any tow character and end with the same tow character but they are reversed 
+
+12:04:01 From Shahd Muhareb to Everyone : delete the lines that contains word Unix or UNIX
+
+12:06:08 From Shahd Muhareb to Everyone : delete the word unix from each lines of file 
+
+12:11:18 From Shahd Muhareb to Everyone : تمام أسامة 
+
